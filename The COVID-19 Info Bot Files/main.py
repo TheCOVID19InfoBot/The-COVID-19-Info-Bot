@@ -1,8 +1,8 @@
 '''
 A Discord bot for COVID 19: The COVID-19 Info Bot
 Start date: August 15th 2020
-Founder/Coder: Donald Lee
-Researcher: Rosa Chen
+Programmer: Donald Lee
+Researchers: Rosa Chen and Samuel Wu
 Graphic Designer: Matthew Quock 
 Beta Tester and Feature Requestor: Kenny Kwan
 '''
